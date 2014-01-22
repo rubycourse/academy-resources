@@ -1,7 +1,7 @@
 Academy Resources
 =================
 
-These are general resources for The Iron Yard Academy students. 
+These are general resources for The Iron Yard Academy students. You might also want to check out our guide to freelance and contract work, [The Little Freelancer](https://github.com/ericdodds/the-little-freelancer).
 
 ## Where do I find good images for homework, practice work or comps? 
 
