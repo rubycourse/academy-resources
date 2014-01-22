@@ -31,7 +31,7 @@ There are many resources for images that are considered public domain, meaning t
 
 As you might expect, the maxim "you get what you pay for" applies the world of photography. While there are some amazing copyright-free images, the resources are limited and sometimes you can't find what you're looking for. 
 
-Good news: there are *still* free photos to use. Most of them are licensed under a [Creative Commons](http://creativecommons.org/licenses/) license. There are all sorts, and you can research them yourself, but for our purposes we'll talk about the "Attribution CC BY" license. The definition speaks for itself: 
+Good news: there are *still* free photos to use. Most of them are licensed under a [Creative Commons](http://creativecommons.org/licenses/) license. There are all sorts, and you can research them yourself, but for our purposes we'll talk about the [Attribution CC BY](http://creativecommons.org/licenses/) license. The definition speaks for itself: 
 
 > This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
