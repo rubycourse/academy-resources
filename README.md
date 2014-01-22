@@ -27,7 +27,7 @@ There are many resources for images that are considered public domain, meaning t
 - http://www.imageafter.com/
 - http://photorack.net/
 
-#### Option 1: use images under the Creative Commons license 
+#### Option 2: use images under the Creative Commons license 
 
 As you might expect, the maxim "you get what you pay for" applies the world of photography. While there are some amazing copyright-free images, the resources are limited and sometimes you can't find what you're looking for. 
 
